@@ -29,7 +29,7 @@
 
 # Credenciales
 ```
-* Gerente    -->  Usuario: Stefan45S   Contraseña: 12345
-* Cliente    -->  Usuario: Helen45B    Contraseña: 12345
-* Secretario -->  Usuario: Blilly      Contraseña: 12345
+* Gerente    -->  Usuario: allanMd   Contraseña: 12345
+* Cliente    -->  Usuario: Arianab    Contraseña: 12345
+* Secretario -->  Usuario: Melanyjk      Contraseña: 12345
 ```
